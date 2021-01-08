@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="it_is_textview">It is TextView</string>
+    <string name="button">bbbbButton</string>
+    <string name="it_is_hint">It is hint</string>
+    <string name="off">Выключен</string>
+    <string name="on">Включен</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="fontFamily">cursive</string>
+    <string name="checkbox_message">Use checkBox! It\'s fun!</string>
 </resources>
