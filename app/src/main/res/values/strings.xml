@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="it_is_textview">It is TextView</string>
+    <string name="button">bbbbButton</string>
+    <string name="it_is_hint">It is hint</string>
+    <string name="off">Выключен</string>
+    <string name="on">Включен</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="fontFamily">cursive</string>
+    <string name="checkbox_message">Use checkBox! It\'s fun!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_name_here">Enter Name here</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_phone_here">Enter Phone here</string>
+    <string name="enter_email_address">Enter Email address</string>
+    <string name="enter_email_address_here">Enter Email address here</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_password_here">Enter password here</string>
 </resources>

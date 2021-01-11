@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">30dp</dimen>
+    <dimen name="textViewSize">25sp</dimen>
+    <dimen name="editTextSize">20sp</dimen>
+    <dimen name="switchPadding">45dp</dimen>
+    <dimen name="switchTrack">100dp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+</resources>
